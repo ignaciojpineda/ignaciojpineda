@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignaciojpineda
+- 👋 Hi, I’m Ignacio
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Economics and Data Science
 - 💞️ I’m looking to collaborate on Income Inequality Analysis
